@@ -15,8 +15,8 @@ p {
 img {
     padding: 6px;
     border: 5px solid white;
-    width: 800;
-    height: 500;
+    width: 800px;
+    height: 500px;
 }
 div {
     max-width: fit-content;
